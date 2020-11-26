@@ -1,4 +1,4 @@
-# Recursos de apoio para gerar QR Codes Pix - WDEV
+# Recursos de apoio para geração de QR Codes Pix em PHP - WDEV
 
 Repositório complementar do canal [WDEV](https://youtube.com/wdevoficial) para a geração do payload do QR code Pix com PHP.
 
@@ -8,7 +8,7 @@ ___________________
 
 ## Vídeo WDEV
 
-Para assistir o vídeo dessa implementação, acesse: [Gerando payload e QR Code do Pix com PHP (YouTube)](https://www.youtube.com/wdevoficial)
+Para assistir o vídeo dessa implementação, acesse: [Gerando payload e QR Code do Pix com PHP (YouTube)](https://youtu.be/eO11iFgrdCA)
 ___________________
 
 ## Documentação base do BACEN
